@@ -6,6 +6,7 @@
 >  - Documentation changes should be pushed to both origins:
 > ``` git push origin mastar ``` - master branch used for Pull Request merges
 > ``` git push wiki master ``` - master branch used for updatating Wiki pages in GitHub
+> First create en empty ```Home.md page``` in GitHub Wiki system and than do ```git pull wiki master```. Now you can start copying pages from this template into it.
 
 
 
