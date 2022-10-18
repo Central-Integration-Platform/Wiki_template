@@ -1,6 +1,6 @@
-# Technical | Architecture | Design
+# Technical | Architecture | System Design
 
-TODO: Explain high level Architecture of the project. Add some high level architectural diagrams.
+TODO: Explain high level Architecture of the system. Add some high level architectural diagrams.
 
 ## C4 Diagram Example
 

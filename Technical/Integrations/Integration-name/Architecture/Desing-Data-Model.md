@@ -1,4 +1,4 @@
-# Technical | Architecture | Design | Data model
+# Technical | Integrations | Integration Name | Architecture | Data model
 
 TODO: Show and explain data model (database/dto) that your project is going to use/implement.
 

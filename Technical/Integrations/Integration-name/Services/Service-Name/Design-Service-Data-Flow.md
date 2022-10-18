@@ -1,6 +1,6 @@
-# Technical | Architecture | Design | Data flow
+# Technical | Integrations | Integration Name | Service | Service Name | Service Data flow
 
-TODO: Show and explain data flow (sequence) that your project is going to use/implement.
+TODO: Show and explain data flow (sequence) that your service is going to use/implement internaly, or link to REDME.md of the service if that is explained in that document.
 
 ## Sequence diagram example
 

@@ -1,6 +1,6 @@
-# Technical | Architecture | Design | Data flow
+# Technical | Integrations | Integration Name | Architecture | Data flow
 
-TODO: Show and explain data flow (sequence) that your project is going to use/implement.
+TODO: Show and explain data flow (sequence) that your integration is going to use/implement.
 
 ## Sequence diagram example
 
